@@ -66,3 +66,4 @@ c:\users\mjaq\documents\visual studio 2015\Projects\BookStore\BookStore\bin\Micr
 c:\users\mjaq\documents\visual studio 2015\Projects\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 c:\users\mjaq\documents\visual studio 2015\Projects\BookStore\BookStore\obj\Debug\BookStore.dll
 c:\users\mjaq\documents\visual studio 2015\Projects\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\mjaq\Documents\Visual Studio 2015\Projects\BookStore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
